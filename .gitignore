@@ -103,6 +103,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
-git rm -r --cached .
-git add .
-git commit -m "Cleaned up tracked files based on new .gitignore"
+# TextMesh Pro 自動產生的字型圖集
+[Aa]ssets/**/Front/*SDF.asset
+[Aa]ssets/**/Font/*SDF.asset
